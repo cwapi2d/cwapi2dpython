@@ -7,10 +7,15 @@
 [![Issues](https://img.shields.io/github/issues/cwapi2d/cwapi2dpython)](https://github.com/cwapi2d/cwapi2dpython/issues)
 [![Pulls](https://img.shields.io/github/issues-pr/cwapi2d/cwapi2dpython)](https://github.com/cwapi2d/cwapi2dpython/pulls)
 [![GitHub](https://img.shields.io/github/license/cwapi2d/cwapi2dpython)](https://choosealicense.com/licenses/mit/)
+[![Docs](https://img.shields.io/badge/docs-github.io-blue)](https://cwapi2d.github.io/cwapi2dpython/)
 
 This is the Cadwork 2D CwAPI2D plugin architecture in Python.
 
 > **Note:** This package is a placeholder. The API is not available yet.
+
+## Documentation
+
+https://cwapi2d.github.io/cwapi2dpython/
 
 ## Installation
 
